@@ -1,0 +1,1 @@
+[![build](https://github.com/mdjdot/GitHubWorkflow/actions/workflows/build-validation.yml/badge.svg)](https://github.com/mdjdot/GitHubWorkflow/actions/workflows/build-validation.yml)
